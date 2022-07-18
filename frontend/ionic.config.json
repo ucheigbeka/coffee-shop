@@ -1,0 +1,9 @@
+{
+  "name": "udaspicelatte",
+  "integrations": {},
+  "type": "angular",
+  "hooks": {
+    "serve:before": "env.js",
+    "build:before": "env.js"
+  }
+}

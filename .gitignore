@@ -1,0 +1,19 @@
+venv/
+.vscode/
+__pycache__/
+.idea/
+test.db
+database.db
+
+.flaskenv
+.env
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
